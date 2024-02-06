@@ -1,2 +1,2 @@
-# MyGame
-Game to learn Git
+# Smash Camera
+Game to learn Godot
